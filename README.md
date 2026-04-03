@@ -51,7 +51,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/deadlockvis.git
+git clone https://github.com/ImtiazHassan/deadlockvis.git
 cd deadlockvis
 
 # Install dependencies
@@ -329,10 +329,10 @@ Please provide attribution if you use this code in your own projects.
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:imtiazcochassan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/imtiaz-hassan-10b250181">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
