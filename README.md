@@ -338,7 +338,7 @@ Please provide attribution if you use this code in your own projects.
 </p>
 
 <p align="center">
-  <b>Made with ❤️ and lots of ☕ by [Your Name]</b>
+  <b>Made with ❤️ and lots of ☕ by ImtiazHassan</b>
 </p>
 
 ---
