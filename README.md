@@ -33,11 +33,11 @@
 
 **DeadlockVis** is a graphical tool that brings Operating System concepts to life. Instead of staring at textbook diagrams, you can **build** your own Resource Allocation Graphs, **watch** deadlocks form in real-time, and **experiment** with resolution strategies.
 
-### 🎯 Perfect For:
-- 🎓 **Students** learning about deadlocks in OS courses
-- 🧑‍🏫 **Educators** demonstrating RAG concepts
-- 🧑‍💻 **Developers** exploring graph algorithms
-- 🧠 **Curious minds** who want to understand why your computer sometimes freezes
+### Perfect For:
+- **Students** learning about deadlocks in OS courses
+- **Educators** demonstrating RAG concepts
+- **Developers** exploring graph algorithms
+- **Curious minds** who want to understand why your computer sometimes freezes
 
 ---
 
@@ -110,14 +110,14 @@ That's it! The GUI will open and you're ready to explore.
 ### 📚 Built-In Learning Examples
 | Example | Description |
 |---------|-------------|
-| 🔄 **Simple Deadlock** | Classic P1↔P2 circular wait with 2 resources |
-| 🎲 **Multi-Instance** | Complex scenario with resource counting |
-| ✅ **Safe State** | Demonstrates a valid safe sequence |
+| **Simple Deadlock** | Classic P1↔P2 circular wait with 2 resources |
+| **Multi-Instance** | Complex scenario with resource counting |
+| **Safe State** | Demonstrates a valid safe sequence |
 
 ### 💾 Save & Share
-- 📁 Save scenarios as JSON files
-- 🖼️ Export graph visualizations as PNG/PDF/SVG
-- 📂 Load previous work instantly
+- Save scenarios as JSON files
+- Export graph visualizations as PNG/PDF/SVG
+- Load previous work instantly
 
 ---
 
