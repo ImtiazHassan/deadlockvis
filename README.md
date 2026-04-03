@@ -82,14 +82,14 @@ That's it! The GUI will open and you're ready to explore.
 │  1️⃣  Cycle Detection (RAG Method)                      │
 │      → For single-instance resources                    │
 │      → O(V + E) time complexity                         │
-│      → Finds cycles in the Resource Allocation Graph      │
+│      → Finds cycles in the Resource Allocation Graph    │
 ├─────────────────────────────────────────────────────────┤
-│  2️⃣  Wait-For Graph Conversion                          │
+│  2️⃣  Wait-For Graph Conversion                         │
 │      → For multi-instance resources                     │
 │      → Reduces RAG to process-only graph                │
 │      → Detects cycles in the reduced graph              │
 ├─────────────────────────────────────────────────────────┤
-│  3️⃣  Banker's Algorithm                                  │
+│  3️⃣  Banker's Algorithm                                │
 │      → For deadlock avoidance                           │
 │      → Finds safe sequences                             │
 │      → Determines if system is in safe state            │
