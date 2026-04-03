@@ -10,7 +10,7 @@
 
 ---
 
-## Challenges Faced (STAR Format)
+## Challenges Faced
 
 ### Challenge 1: Real-Time Graph Visualization Integration
 
@@ -163,7 +163,8 @@ This project successfully demonstrates practical application of operating system
 
 ---
 
-**Report Prepared By:** [Your Name]  
-**Course:** CSE323 - Operating System Design  
+**Report Prepared By:** Mohammad Imtiaz Hassan
+**ID: 2321196642
+**Course:** CSE323 - Operating System Design (Section 1)
 **Institution:** North South University  
 **Date:** April 2026
