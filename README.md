@@ -67,7 +67,7 @@ That's it! The GUI will open and you're ready to explore.
 
 ## 🎮 Features
 
-### 🏗️ Interactive Graph Builder
+### Interactive Graph Builder
 | Feature | Description |
 |---------|-------------|
 | **Drag-and-Drop Interface** | Add processes and resources with simple clicks |
@@ -75,7 +75,7 @@ That's it! The GUI will open and you're ready to explore.
 | **Real-Time Updates** | See the graph update instantly as you build |
 | **Persistent Layout** | Node positions stay consistent as you edit |
 
-### 🔍 Three Deadlock Detection Algorithms
+### Three Deadlock Detection Algorithms
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -97,10 +97,10 @@ That's it! The GUI will open and you're ready to explore.
 ```
 
 ### 🚨 Visual Deadlock Detection
-- 🔴 **Red Highlighting**: Deadlocked processes turn red
-- 📊 **Status Panel**: Real-time system state display
-- 🔍 **Cycle Visualization**: See exactly which nodes form the deadlock
-- 📝 **Method Detection**: Shows which algorithm detected the deadlock
+- **Red Highlighting**: Deadlocked processes turn red
+- **Status Panel**: Real-time system state display
+- **Cycle Visualization**: See exactly which nodes form the deadlock
+- **Method Detection**: Shows which algorithm detected the deadlock
 
 ### 🛠️ Deadlock Resolution Tools
 - **Process Termination**: Remove a deadlocked process and release its resources
@@ -187,13 +187,13 @@ When you click **"Detect Deadlock"**, the system:
 ```
 deadlockvis/
 │
-├── 📄 main.py              # Application entry point
-├── 🖥️  gui.py              # GUI implementation (Tkinter)
-├── 📊 graph.py             # Core algorithms & data structures
-├── 📋 requirements.txt     # Python dependencies
-├── 📖 README.md            # This file
+├── main.py              # Application entry point
+├── 🖥️gui.py              # GUI implementation (Tkinter)
+├── graph.py             # Core algorithms & data structures
+├── requirements.txt     # Python dependencies
+├── README.md            # This file
 │
-└── 💾 examples/            # Saved scenario files (optional)
+└── examples/            # Saved scenario files (optional)
     ├── simple_deadlock.json
     ├── multi_instance.json
     └── safe_state.json
@@ -244,11 +244,11 @@ By using DeadlockVis, you'll understand:
 
 | Concept | Understanding |
 |---------|---------------|
-| 🔗 Resource Allocation Graphs | How processes and resources relate |
-| 🔄 Circular Wait | How deadlocks form visually |
-| 🔍 Detection Methods | Different algorithms for different scenarios |
-| 🛠️ Resolution Strategies | Termination vs Preemption trade-offs |
-| 🧮 Banker's Algorithm | Deadlock avoidance in practice |
+| Resource Allocation Graphs | How processes and resources relate |
+| Circular Wait | How deadlocks form visually |
+| Detection Methods | Different algorithms for different scenarios |
+| Resolution Strategies | Termination vs Preemption trade-offs |
+| Banker's Algorithm | Deadlock avoidance in practice |
 
 ---
 
