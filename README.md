@@ -188,7 +188,7 @@ When you click **"Detect Deadlock"**, the system:
 deadlockvis/
 │
 ├── main.py              # Application entry point
-├── 🖥️gui.py              # GUI implementation (Tkinter)
+├── gui.py              # GUI implementation (Tkinter)
 ├── graph.py             # Core algorithms & data structures
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
