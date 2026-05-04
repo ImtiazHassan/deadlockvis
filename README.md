@@ -8,16 +8,9 @@
 </p>
 
 <p align="center">
-  <b>An interactive playground for exploring Resource Allocation Graphs, Deadlock Detection, and OS concepts.</b>
+  <b>DeadlockVis is a Python desktop application for visualizing Operating System deadlocks using Resource Allocation Graphs. It lets users create processes and resources, connect allocation/request edges, detect deadlocks, and test simple resolution strategies through an interactive GUI.</b>
 </p>
 
-<p align="center">
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-demo-video">Demo</a> •
-  <a href="#-how-it-works">How It Works</a> •
-  <a href="#-tech-stack">Tech Stack</a>
-</p>
 
 ---
 
