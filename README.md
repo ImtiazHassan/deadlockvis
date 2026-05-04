@@ -18,7 +18,7 @@
 
 > 🎥 **[Watch the 4-minute Demo](your-video-link-here)** — See DeadlockVis in action!
 
-![Demo Preview](assets/demo-preview.png) <!-- Replace with actual screenshot -->
+![Demo Preview](DeadlockVis.png) <!-- Replace with actual screenshot -->
 
 ---
 
