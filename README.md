@@ -16,7 +16,7 @@
 
 ## 🎬 Demo Video
 
-> 🎥 **[Watch the 4-minute Demo](your-video-link-here)** — See DeadlockVis in action!
+> 🎥 **[Watch the Demo Video](https://youtu.be/8hc2xs5cf6k?si=SGpfnHJM1qK0F7cn)** — See DeadlockVis in action!
 
 ![Demo Preview](DeadlockVis.png) 
 
